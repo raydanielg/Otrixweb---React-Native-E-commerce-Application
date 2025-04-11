@@ -1,0 +1,189 @@
+{
+  "commoninput": {
+    "placeholder_email": "Email Address",
+    "placeholder_password": "Password",
+    "placeholder_first_name": "First Name",
+    "placeholder_last_name": "Last Name",
+    "placeholder_confirm_password": "Confirm Password",
+    "placeholder_phone": "Mobile Number",
+    "select_country": "Select Country",
+    "select_state": "Select State",
+    "city": "City",
+    "address_1": "Address 1",
+    "address_2": "Address 2",
+    "name": "Name",
+    "postcode": "Post Code"
+  },
+  "common": {
+    "label_new": "New",
+    "label_out_of_stock": "Out Of Stock",
+    "product_not_found": "Product not found!"
+  },
+  "filter": {
+    "title": "Filter",
+    "clear_all": "Clear All",
+    "price": "Price",
+    "price_range": "Price Range",
+    "rating": "Rating",
+    "apply_filter": "Apply Filter"
+  },
+  "login": {
+    "welcome": "Login Account",
+    "title": "Enter your email and password to login",
+    "button_login": "Login Now",
+    "label_registration_info": "Don't have an Account?",
+    "button_registration": "Sign Up"
+  },
+  "registration": {
+    "title": "Register Account",
+    "subtitle": "Create account to continue shopping with otrixweb",
+    "button_register": "Register Now",
+    "label_login_info": "Already have an Account?",
+    "button_login": "Sign In"
+  },
+  "reset_password": {
+    "title": "Update Password",
+    "placeholder_old_password": "Old Password",
+    "placeholder_new_password": "New Password",
+    "placeholder_confirm_password": "Confirm Password",
+    "button_reset": "Update"
+  },
+  "title": {
+    "notifications": "Notifications",
+    "audio_player": "Audio Player",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "profile": "My Profile",
+    "update_profile": "Edit Profile",
+    "change_language": "Change Language",
+    "cms_list": "Blogs"
+  },
+  "homepage": {
+    "placeholder_search": "Search Product",
+    "label_category": "Top Categories",
+    "viewall": "View All",
+    "label_new_product": "New Product",
+    "label_shop_by_brands": "Shop By Brands",
+    "label_dod": "Deals of the day",
+    "label_tranding": "Tranding Product"
+  },
+  "categories": {
+    "title": "Categories"
+  },
+  "brands": {
+    "title": "Brands"
+  },
+  "account": {
+    "title": "My Profile",
+    "label_edit_profile": "Edit Profile",
+    "label_wishlist": "Wishlist",
+    "label_manage_address": "Manage Address",
+    "label_order": "My Orders",
+    "label_change_password": "Change Password",
+    "label_logout": "Logout"
+  },
+  "setting": {
+    "title": "Settings",
+    "label_language": "Language",
+    "label_notification": "Notification Setting",
+    "terms_conditions": "Terms and Conditions",
+    "privacy_policy": "Privacy Policy",
+    "return_refund": "Return & Refund Policy",
+    "shipping_delivery": "Shipping & Delivery Policy",
+    "rate_app": "Rate Otrixapp",
+    "share_app": "Share This App",
+    "dark_mode": "Dark Mode"
+  },
+  "manage_address": {
+    "title": "Your Address",
+    "add": "Add",
+    "add_address": "Add Address",
+    "update_address": "Update Address"
+  },
+  "orders": {
+    "your_order": "Your Orders",
+    "buy_again": "Buy it Again",
+    "order_detail": "Order Details",
+    "order_status": "Order Status",
+    "order_on": "Order On"
+  },
+  "order_details": {
+    "title": "Order Details",
+    "view_order_detail": "View Orders Details",
+    "order_date": "Order Date",
+    "payment_method": "Payment Method",
+    "order": "Order",
+    "order_total": "Order Total",
+    "shipping_address": "Shipping Address",
+    "order_product_list": "Order Product List",
+    "quantity": "Quantity",
+    "rate_this_product": "Rate This Product",
+    "order_summary": "Order Summary",
+    "items_count": "Items Count",
+    "tax": "Tax",
+    "discount": "Discount",
+    "shipping_charge": "Shipping Charge",
+    "rate_product_now": "Rate Product Now!",
+    "rate_text": "Rate Text",
+    "submit": "Submit",
+    "cancel_order": "Cancel Order",
+    "cancel_order_text": "Are you want to cancel this order?",
+    "cancel_text": "Reason for cancel"
+  },
+  "language_screen": {
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "notification": {
+    "title": "Notification",
+    "enable_notification": "Enable Notification For",
+    "for_you": "For You",
+    "Categories_wise": "Categories Wise Notification",
+    "save": "Save"
+  },
+  "product_details": {
+    "review": "Review",
+    "description": "Description",
+    "specification": "Specification",
+    "overall_rating": "Overall Rating",
+    "based_on": "Based on",
+    "excellent": "Excellent",
+    "good": "Good",
+    "avg": "Average",
+    "poor": "Poor",
+    "very_bad": "Very Bad",
+    "similar": "Similar Products",
+    "add_to_cart": "Add to cart"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "coupon_code": "Coupon Code",
+    "coupon": "Coupon",
+    "sub_total": "Sub Total",
+    "total": "Total",
+    "checkout": "Checkout",
+    "apply": "Apply"
+  },
+  "checkout": {
+    "address": "Address",
+    "payment": "Payment",
+    "delivery_address": "Delivery Address",
+    "shipping_method": "Shipping Method",
+    "add_new_address": "Add New Address",
+    "proceed": "Proceed To Pay",
+    "payment_methods": "Payment Methods",
+    "credit_debit": "Credit/Debit Card",
+    "cod": "Cash On Delivery",
+    "order_comments": "Order Comments",
+    "enter_order_comments": "Enter Order Comments(optional)",
+    "order_summary": "Order Summary",
+    "place_order": "Place Order",
+    "payment_confirm": "Payment Confirmed",
+    "payment_desc": "Your order is confirmed you will receive an order confirmation email/SMS shortly with the expected delivery date your items",
+    "continue_shopping": "Continue Shopping",
+    "view_order": "View Order"
+  },
+  "search": {
+    "most_searchs": "Most Searches"
+  }
+}

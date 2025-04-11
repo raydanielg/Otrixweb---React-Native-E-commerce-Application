@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Droid Arabic Kufi.ttf",
+      "sha1": "3370de6fc5dffdb4ef98fd84ec0e49ed811e1d19"
+    },
+    {
+      "path": "src/assets/fonts/DroidKufi-Bold.ttf",
+      "sha1": "590865add23d8c0b0da1ed52bb453277d824e195"
+    },
+    {
+      "path": "src/assets/fonts/DroidKufi-Regular.ttf",
+      "sha1": "f2a6e5609843c15ed5e94b1c12cf95ad23e0aa36"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Black.ttf",
+      "sha1": "e28654c12713143bfdd72f8c559c48a19c1cbf18"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "013f1bbcbbd80991a5f00fca52a90d0d7ab8b81f"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Light.ttf",
+      "sha1": "51dbae4543aaa10096e344e48fcffe468bd314a9"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "fddc8b1c688ef3baed0d5a46abf5f01f0edaf02b"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "84d102488738b0ebbc7a5087973effbd54c95bd5"
+    }
+  ]
+}

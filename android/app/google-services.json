@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "123456123471",
+    "project_id": "otrix-commerce",
+    "storage_bucket": "otrix-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456123471:android:09450017bbaff2466cb6c4",
+        "android_client_info": {
+          "package_name": "com.otrix.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456123471-02d7thhi3j8ba1eh41fhq77g0rhgmdus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otrix.ecommerce",
+            "certificate_hash": "86481edff33311d5368b9185b93013dcbe6b36e3"
+          }
+        },
+        {
+          "client_id": "123456123471-g2folaog0ck90vhbvbooqthq397qvk5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "123456123_J-PZLlfM4QehWlJBdqChymUUuP4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456123471-g2folaog0ck90vhbvbooqthq397qvk5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123456123471-73cjo60tquf4d6g22aoe6upmacg1tvuv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.otrixcommercelaravel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456123471:android:4d2a36db224702da6cb6c4",
+        "android_client_info": {
+          "package_name": "com.otrixcommercelaravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456123471-350g85dn51ao80p842bu5qnjmmjjnic0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otrixcommercelaravel",
+            "certificate_hash": "aa15f9bb986f715d7ef3494188e1aafd92095566"
+          }
+        },
+        {
+          "client_id": "123456123471-hi5gg8pkdkcf8j8ps6va486i543b11g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otrixcommercelaravel",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "123456123471-tk4ut7vcr1806bpu1v0oom5c5uqb5v5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otrixcommercelaravel",
+            "certificate_hash": "44eb466385632ab057bb992f07c17cc50b0e645e"
+          }
+        },
+        {
+          "client_id": "123456123471-g2folaog0ck90vhbvbooqthq397qvk5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "123456123_J-PZLlfM4QehWlJBdqChymUUuP4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456123471-g2folaog0ck90vhbvbooqthq397qvk5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123456123471-73cjo60tquf4d6g22aoe6upmacg1tvuv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.otrixcommercelaravel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
